@@ -115,8 +115,7 @@ span{
 }
 
 .slider .card a.button {
-    width: 120%;
-  border: 1px solid #0661d8;
+    width: 200%;
   border-radius: 30px;
   color: #0873ec;
   padding: 0.5rem 1rem;
